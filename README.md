@@ -7,13 +7,13 @@ A development project of Github Page, and it based on the Hexo.
 
 ## Table of Contents
 
-- [Requirement](#Requirement)
-- [Quick start](#Quick start)
+- [Requirement](#requirement)
+- [Quick start](#quick-start)
 - [Contributing](#Contributing)
-- [Support and Migration](#Support and Migration)
+- [Support and Migration](#support-and-migration)
 - [License](#License)
 
-### Requirement
+## Requirement
 
 The current project requires the following to run:
 
