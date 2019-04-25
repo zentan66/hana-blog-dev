@@ -1,7 +1,7 @@
 # hana-blog-dev
 A development project of Github Page, and it based on the Hexo.
 
-![npm](https://img.shields.io/badge/npm-v6.1.0-blue.svg) ![nodejs](https://img.shields.io/badge/node.js%20support-0.10--10.6.0-brightgreen.svg)![build](https://img.shields.io/badge/build-passing-brightgreen.svg)![license](https://img.shields.io/badge/license-MIT-blue.svg)
+![npm](https://img.shields.io/badge/npm-v6.1.0-blue.svg) ![nodejs](https://img.shields.io/badge/node.js%20support-0.10--10.6.0-brightgreen.svg) ![build](https://img.shields.io/badge/build-passing-brightgreen.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
 
