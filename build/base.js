@@ -12,7 +12,7 @@ AssetUtils.setHappyPack({
   }]
 })
 
-/*module.exports = {
+module.exports = {
   // context: path.resolve(__dirname, '')
   entry: path.resolve(__dirname, 'src'),
 
@@ -71,4 +71,4 @@ AssetUtils.setHappyPack({
   profile: true,
   // 是否启用缓存提升构建速度
   cache: true,
-}*/
+}
